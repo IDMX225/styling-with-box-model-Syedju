@@ -1,26 +1,19 @@
-* {
+*{
+  outline: 2px solid red;
     padding: 10px;
     margin: 10px;
     font-size: 40px;
   }
 
-  .box-one {
-    
-    background-color: red;
-    border: 10px solid purple;
-    padding: 20px;
-    border-width: 20px;
-    margin: 20px;
-     }
-   
-    
+.box-one {
+   background-color: red;
+   border: 10px solid purple;
+   padding: 20px;
+   margin: 20px;
+
+  }
     
   .box-two {
     background-color: blue;
-    border: 10 solid yellow;
-    padding: 20px;
-    border-width: 20px;
-    margin:20px;
-  } 
-
-  
+    border: 10px solid yellow;
+  }
