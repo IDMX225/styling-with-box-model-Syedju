@@ -5,12 +5,25 @@
 }
 
 .box-one {
-    background-color: red;
-    border: 0 solid purple;
+    background-color: purple;
+    border: 0 solid pink;
     padding: 10px;
+    margin: 20px;
+}
+
+.box-child-one{
+    padding: 10px;
+    background-color: red;
 }
 
 .box-two {
-    background-color: blue;
+    background-color: yellow;
     border: 0 solid yellow;
+    padding: 10px;
+    margin: 20px;
+}
+
+.box-child-two{
+    padding: 10px;
+    background-color: green;
 }
